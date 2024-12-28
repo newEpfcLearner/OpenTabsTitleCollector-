@@ -1,6 +1,6 @@
 # OpenTabsTitleCollector-
 
-English.
+<h1>English.</h1>
 What does this extension do?
 This extension retrieves and displays the titles of all open tabs in your browser. With a single click on the extension's icon, you can see a list of all the titles of the pages currently open in your browser.
 
@@ -24,7 +24,7 @@ Click "Remove" to uninstall the extension.
 Warning:
 This extension works on Chromium-based browsers (Chrome, Brave, etc.). Make sure the necessary permissions are enabled.
 
-Français.
+<h1>Français.</h1>
 Qu'est-ce que cette extension fait ?
 Cette extension permet de récupérer et d'afficher les titres de tous les onglets ouverts dans votre navigateur. En un seul clic sur l'icône de l'extension, vous pouvez voir une liste des titres de toutes les pages actuellement ouvertes dans votre navigateur.
 
