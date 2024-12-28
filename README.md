@@ -1,6 +1,6 @@
 # OpenTabsTitleCollector-
 
-English
+English 
 What does this extension do?
 This extension retrieves and displays the titles of all open tabs in your browser. With a single click on the extension's icon, you can see a list of all the titles of the pages currently open in your browser.
 
