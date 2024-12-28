@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Get Tab Titles",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
